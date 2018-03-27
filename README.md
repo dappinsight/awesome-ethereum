@@ -46,6 +46,7 @@ Awesome Ethereum & Dapps Resources
 
 #### DAPPS
 - [State of the Dapps](http://dapps.ethercasts.com/)
+- [Dapp Insight](https://dappinsight.com)
 - [ZeroNet Decentralized websites using Bitcoin crypto and the BitTorrent network](https://github.com/HelloZeroNet/ZeroNet)
 - [WeiFund : A decentralized, open-source, crowdfunding platform built on Ethereum.](https://github.com/weifund)
 - [Etherex : EtherEx is an open source, fully transparent, next generation decentralized exchange built on Ethereum](https://github.com/etherex/etherex)
